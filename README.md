@@ -10,7 +10,7 @@
 本项目会追踪主题的 `seisman` 分支和博文的 `master` 分支。
 
 - 引擎： [![Hexo](https://img.shields.io/badge/Hexo-master-blue.svg)](https://github.com/whu-pzhang/pzhangnotes.info/tree/master)
-- 主题： [![NexT](https://img.shields.io/badge/NexT-seisman-blue.svg)](https://github.com/whu-pzhang/hexo-theme-next/tree/pzhangnotes)
+- 主题： [![NexT](https://img.shields.io/badge/NexT-pzhangnotes-blue.svg)](https://github.com/whu-pzhang/hexo-theme-next/tree/pzhangnotes)
 - 博文： [![Posts](https://img.shields.io/badge/Posts-master-blue.svg)](https://github.com/whu-pzhang/pzhangnotes.info.posts/tree/master)
 
 这样的设计具有如下一些优点：
