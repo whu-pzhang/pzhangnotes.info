@@ -51,8 +51,8 @@ $ sudo apt-get install pandoc
 $ sudo yum install pandoc
 
 # 4. Clone项目源码至本地
-$ git clone https://github.com/seisman/seisman.info.git
-$ cd seisman.info
+$ git clone https://github.com/whu-pzhang/pzhangnotes.info.git
+$ cd pzhangnotes.info
 
 # 5. 初始化并更新子模块
 $ git submodule update --init --recursive --remote
