@@ -1,10 +1,6 @@
 [submodule "source"]
 	path = source
 	url = https://github.com/whu-pzhang/pzhangnotes.info.posts.git
-[submodule "theme/next"]
-	path = theme/next
-	url = https://github.com/whu-pzhang/hexo-theme-next.git
-	branch = pzhangnotes
 [submodule "themes/next"]
 	path = themes/next
 	url = https://github.com/whu-pzhang/hexo-theme-next.git
