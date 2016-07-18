@@ -5,3 +5,7 @@
 	path = theme/next
 	url = https://github.com/whu-pzhang/hexo-theme-next.git
 	branch = pzhangnotes
+[submodule "themes/next"]
+	path = themes/next
+	url = https://github.com/whu-pzhang/hexo-theme-next.git
+	branch = pzhangnotes
