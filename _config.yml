@@ -5,7 +5,7 @@
 # Site
 title: PzNotes
 subtitle: 学习和分享
-description: Geophysics
+description: 个人笔记
 author: pzhang
 language: zh-Hans
 timezone: Asia/Shanghai
@@ -70,8 +70,8 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:whu-pzhang/pzhang.notes.git
-  branch:
+  repo: git@github.com:whu-pzhang/pznotes.github.io.git
+  branch: master
 
 
 # Plugins

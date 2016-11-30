@@ -7,7 +7,7 @@
 
 博客自v2.0版本开始，将网站生成引擎配置、主题和博文独立开来，三者位于独立的仓库中。
 主题和博文均作为网站生成引擎（即本项目）的子模块。
-本项目会追踪主题的 `seisman` 分支和博文的 `master` 分支。
+本项目会追踪主题的 `whu-pzhang` 分支和博文的 `master` 分支。
 
 - 引擎： [![Hexo](https://img.shields.io/badge/Hexo-master-blue.svg)](https://github.com/whu-pzhang/pzhangnotes.info/tree/master)
 - 主题： [![NexT](https://img.shields.io/badge/NexT-pzhangnotes-blue.svg)](https://github.com/whu-pzhang/hexo-theme-next/tree/pzhangnotes)
@@ -15,7 +15,7 @@
 
 这样的设计具有如下一些优点：
 
-1. 主题的 `master` 分支可以与 [NexT]() 保持同步更新，方便 `seisman` 分支进行rebase
+1. 主题的 `master` 分支可以与 [NexT]() 保持同步更新，方便 `pzhang` 分支进行rebase
 2. 可以随时切换主题，而不用担心旧主题占据大量的项目空间
 3. Hexo或者其他绝大多数博客引擎都使用 `![AltText](/images/xxx.png)` 这种“伪绝对路径”的
    方式引用图片，这样做使得 markdown 文件在 GitHub 上无法正常显示图片，而将博文存放在
@@ -23,14 +23,14 @@
 4. 若未来切换博客引擎，所有博文可在少量修改的前提下迁移到新的博客引擎下，且能够保留
    所有修订历史
 
-[PzNotes博客]: https://pzhangnotes.info
+[PzNotes博客]: https://pznotes.github.io
 [Hexo]: https://hexo.io/
 [NexT]: https://github.com/iissnan/hexo-theme-next
 [iissnan]: https://github.com/iissnan
 
 ### 本地预览
 
-读者可以通过访问网址 https://pzhangnotes.info 阅读博客内容，也可以在自己的机器上离线预览博客。
+读者可以通过访问网址 https://pznotes.github.io 阅读博客内容，也可以在自己的机器上离线预览博客。
 只需要通过如下几个简单的步骤，即可实现离线预览。整个过程大概不到10分钟（前提是网速还可以，
 相关网站没有被墙）。
 
