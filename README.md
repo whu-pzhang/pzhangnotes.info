@@ -23,14 +23,14 @@
 4. 若未来切换博客引擎，所有博文可在少量修改的前提下迁移到新的博客引擎下，且能够保留
    所有修订历史
 
-[PzNotes博客]: https://pznotes.github.io
+[PzNotes博客]: https://whu-pzhang.github.io
 [Hexo]: https://hexo.io/
 [NexT]: https://github.com/iissnan/hexo-theme-next
 [iissnan]: https://github.com/iissnan
 
 ### 本地预览
 
-读者可以通过访问网址 https://pznotes.github.io 阅读博客内容，也可以在自己的机器上离线预览博客。
+读者可以通过访问网址 https://whu-pzhang.github.io 阅读博客内容，也可以在自己的机器上离线预览博客。
 只需要通过如下几个简单的步骤，即可实现离线预览。整个过程大概不到10分钟（前提是网速还可以，
 相关网站没有被墙）。
 
