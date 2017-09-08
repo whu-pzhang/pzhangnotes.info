@@ -2,7 +2,3 @@
 	path = source
 	url = https://github.com/whu-pzhang/pzhangnotes.info.posts.git
 	branch = master
-[submodule "themes/next"]
-	path = themes/next
-	url = https://github.com/whu-pzhang/hexo-theme-next.git
-	branch = pzhang
