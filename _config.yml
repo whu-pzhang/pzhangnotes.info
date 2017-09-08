@@ -89,7 +89,6 @@ plugins:
     - hexo-generator-tag
     - hexo-filter-fix-cjk-spacing
     - hexo-deployer-git
-    - hexo-math
 
 ## archive
 archive_generator:
@@ -102,4 +101,3 @@ category_generator:
 ## tag
 tag_generator:
     per_page: 20
-
