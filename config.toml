@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://whu-pzhang.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "PzNotes - Learning and Sharing"
@@ -49,7 +49,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   name = "About"
   weight = 70
   identifier = "about"
-  url = "/about"
+  url = "/about/"
 
 
 [permalinks]
