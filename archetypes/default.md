@@ -1,6 +1,13 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: {{ replace .TranslationBaseName "-" " " | title }}
+author: pzhang
 date: {{ .Date }}
-draft: true
----
+lastMod: {{ .Date }}
+categories:
+  -
+tags:
+  -
 
+draft: true
+slug: {{ .Name }}
+---
